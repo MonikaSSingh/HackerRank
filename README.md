@@ -1,3 +1,3 @@
 # HackerRank
 
-Coding problems with solution 
+Coding problems with solution in C#
